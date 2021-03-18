@@ -1,3 +1,3 @@
-# Movie Review Sentiment Analysis
+# Movie Review Sentiment Analysisfrd
 ![alt text](https://github.com/akkinasrikar/Movie-Review-Sentiment-Analysis/blob/master/images/1.png)
 ![alt text](https://github.com/akkinasrikar/Movie-Review-Sentiment-Analysis/blob/master/images/2.png)
